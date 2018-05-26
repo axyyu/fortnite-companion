@@ -5,6 +5,8 @@ import { SplashScreen } from '@ionic-native/splash-screen';
 
 import { TabsPage } from '../pages/tabs/tabs';
 
+import { FortniteService } from '../services/fortnite.service';
+
 @Component({
   templateUrl: 'app.html'
 })
